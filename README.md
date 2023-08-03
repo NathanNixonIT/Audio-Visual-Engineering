@@ -36,12 +36,6 @@ This repository showcases the work and skills of a versatile Audio/Visual/Music 
 - Adobe After Effects: Visual effects and motion graphics software for adding dynamic elements to videos.
 - Final Cut Pro: Apple's video editing software with advanced features and performance.
 
-## Workspace
-
-![Workspace Image 1](workspace_image_1.jpg)
-![Workspace Image 2](workspace_image_2.jpg)
-![Workspace Image 3](workspace_image_3.jpg)
-
 ## Contact
 
 For inquiries, collaborations, or projects, please contact:
